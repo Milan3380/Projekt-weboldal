@@ -1,26 +1,39 @@
 body{
-    background-color: #778899;
+    background-color: white;
 }
 
 
 .cim{
     text-align: center;
-    
 
 }
 
 
 button{
-    width: 200px;
+    background-color: darkgray;
+    width: 400px;
     height: 50px;
 }
 
-img{
- display: block;
-margin-left: auto;
-margin-right:auto;
 
-    
+img{
+    width: 465px;
+    height: 300;
+}
+
+
+.img{
+    text-align: center;
+}
+
+
+.img2{
+    text-align: center;
+}
+
+
+.lapok{
+    text-align: center;
 }
 
 
